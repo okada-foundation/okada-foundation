@@ -25,3 +25,7 @@ The Foundation delivers programs through partnerships with training institutions
 ## Website
 
 https://okada.foundation
+
+## Transparency
+
+All program documentation, impact reports, and partnerships are publicly accessible through this GitHub organization.
